@@ -1,0 +1,5 @@
+Heyyy this is Romman
+It is very hard to learn file handling in  Python
+
+but heyyy,I have to learn.
+I must learn all of the principles!
